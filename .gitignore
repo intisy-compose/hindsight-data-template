@@ -1,0 +1,5 @@
+# Runtime state: SQL dumps and logs from the db-backup sidecar, model weights
+hindsight/*.sql
+hindsight/*.sql.tmp
+hindsight/*.log
+llama/
