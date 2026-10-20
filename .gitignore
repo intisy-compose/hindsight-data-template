@@ -1,5 +1,7 @@
-# Runtime state: SQL dumps and logs from the db-backup sidecar, model weights
+# Runtime state: SQL dumps and logs from the db-backup sidecar, model weights, and the tailscale node
+# identity (a secret)
 hindsight/*.sql
 hindsight/*.sql.tmp
 hindsight/*.log
 llama/
+tailscale/
